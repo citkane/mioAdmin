@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import '@mio-core/miolang';
+
+console.log('hello world!')
 
 function App() {
   return (
